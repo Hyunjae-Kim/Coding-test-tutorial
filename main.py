@@ -1,3 +1,4 @@
-a = [[0, 0, 0],[0,0,0]]
-a[0][1] = 9
+from sys import stdin
+
+a = stdin.readline().rstrip()
 print(a)
