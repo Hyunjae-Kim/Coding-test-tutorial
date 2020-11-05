@@ -17,4 +17,7 @@ while 1:
     count += 1
     if new_num==num:
         break
+
 print(count)
+
+##더 심플하게 가능
