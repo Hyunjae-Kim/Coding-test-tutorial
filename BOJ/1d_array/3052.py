@@ -1,0 +1,1 @@
+num_set = set(int(input())%42)
